@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Downloads\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Acer\\Downloads\\UNICDA codigo LP certificacion\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Downloads\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj": {
+    "C:\\Users\\Acer\\Downloads\\UNICDA codigo LP certificacion\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Downloads\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Downloads\\UNICDA codigo LP certificacion\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Acer\\Downloads\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Acer\\Downloads\\UNICDA codigo LP certificacion\\isabreu09-snakegame\\Snake-game-main\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Downloads\\isabreu09-snakegame\\Snake-game-main\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Downloads\\UNICDA codigo LP certificacion\\isabreu09-snakegame\\Snake-game-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
